@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 group-title="Релакс",Avia Stream [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch306/video.m3u8
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.imgur.com/gmrVKEC.jpg",Better Life Nature Channel [704x480]
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.imgur.com/1VZZCZU.jpg",Fireplace 4k [3840x2160]
+https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png",Loupe 4K [3840x2160]
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true",Loupe TV [1920x1080]
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+#EXTINF:-1 group-title="Релакс",Relaxon [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-1 group-title="Релакс",Space Stream [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch314/video.m3u8
+#EXTINF:-1 group-title="Релакс",Stream City [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch321/video.m3u8
+#EXTINF:-1 group-title="Релакс",World HD [1920x1080]
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Релакс",Аквариум [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch325/video.m3u8
+#EXTINF:-1 group-title="Релакс",Бассейн [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch345/video.m3u8
+#EXTINF:-1 group-title="Релакс",Водопад [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch329/video.m3u8
+#EXTINF:-1 group-title="Релакс",Горная долина [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch302/video.m3u8
+#EXTINF:-1 group-title="Релакс",Горы [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch340/video.m3u8
+#EXTINF:-1 group-title="Релакс",Джунгли [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch339/video.m3u8
+#EXTINF:-1 group-title="Релакс",Дожди [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch304/video.m3u8
+#EXTINF:-1 group-title="Релакс",Железная дорога [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch348/video.m3u8
+#EXTINF:-1 group-title="Релакс",Звуки дождя 24/7 [1920x1080]
+http://hls.goodgame.ru/hls/198378.m3u8
+#EXTINF:-1 group-title="Релакс",Зима [1920x1080]
+https://iptv.prosto.tv/ch327/video.m3u8
+#EXTINF:-1 group-title="Релакс",Камин [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:-1 group-title="Релакс",Комната релакс [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch328/video.m3u8
+#EXTINF:-1 group-title="Релакс",Лес [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch330/video.m3u8
+#EXTINF:-1 group-title="Релакс",Ночь [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch349/video.m3u8
+#EXTINF:-1 group-title="Релакс",Огонь [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+#EXTINF:-1 group-title="Релакс",Озеро [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch341/video.m3u8
+#EXTINF:-1 group-title="Релакс",Парк [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch350/video.m3u8
+#EXTINF:-1 group-title="Релакс",Пейзаж [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch343/video.m3u8
+#EXTINF:-1 group-title="Релакс",Пляж [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch332/video.m3u8
+#EXTINF:-1 group-title="Релакс",Подводный мир [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch305/video.m3u8
+#EXTINF:-1 group-title="Релакс",Просто Украина [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch303/video.m3u8
+#EXTINF:-1 group-title="Релакс",Река [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch338/video.m3u8
+#EXTINF:-1 group-title="Релакс",Сад [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch347/video.m3u8
+#EXTINF:-1 group-title="Релакс",Свет вокруг [ua] [
+http://iptv.prosto.tv:7000/ch351/video.m3u8
+#EXTINF:-1 group-title="Релакс",Тропики [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch335/video.m3u8
+#EXTINF:-1 group-title="Релакс",Флора [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch346/video.m3u8
+#EXTINF:-1 group-title="Релакс",ЭКО система [ua] [1920x1080]
+http://iptv.prosto.tv:7000/ch316/video.m3u8
