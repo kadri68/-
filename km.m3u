@@ -1,4 +1,52 @@
 #EXTM3U
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" group-title="PIKOTV | Live", Musica Studio
+https://livestream.zazerconer.workers.dev/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="Aflam.sa" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Aflam/original/thump_Aflam.jpg?width=297&version=1&type=webp" group-title="PIKOTV | Arabic", Aflam sa
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="MoviesAction.sa" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Hanin/Aug/thump_Action/original/thump_Action.jpg?width=297&version=1&type=webp" group-title="PIKOTV | Arabic", Movies Action
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="MoviesThriller.sa" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_movies_thriller/original/thump_movies_thriller.jpg?width=297&version=1&type=webp" group-title="PIKOTV | Arabic", Movies Thriller
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="Movies.sa" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_movies/original/thump_movies.jpg?width=297&version=1&type=webp" group-title="PIKOTV | Arabic", Movies
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-logo="https://i.imgur.com/tjIKs3q.png" group-title="PIKOTV | Arabic", فطا
+https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="MasrahMasr.egy" tvg-shift="3" tvg-name="مسرح مصر" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Masrah_masr/original/thump_Masrah_masr.jpg?width=297&version=1&type=webp" group-title="PIKOTV | Arabic", Masrah Masr egy
+https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="AsliWaHasry.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_asli_w_hasri/original/thump_asli_w_hasri.jpg?width=297&version=1&type=webp" group-title="PIKOTV | Arabic", Asli Wa Hasry ae
+https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="MBC3.ae" tvg-shift="3" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="PIKOTV | Arabic", MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="MBC4.ae" tvg-shift="3" tvg-name="MBC 4" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="PIKOTV | Arabic", MBC 4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="MBC5.ae" tvg-shift="3" tvg-name="MBC 5" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="PIKOTV | Arabic", MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="MBCMasr.ae" tvg-shift="3" tvg-name="MBC Masr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/mbc-maser-ae.png" group-title="PIKOTV | Arabic", MBC Masr
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="MBCDrama.ae" tvg-shift="3" tvg-name="MBC Drama" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="PIKOTV | Arabic", MBC Drama
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="MBCPlusDrama.ae" tvg-shift="3" tvg-name="MBC+ Drama" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="PIKOTV | Arabic", MBC+ Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="MBCBollywood.ae" tvg-shift="3" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="PIKOTV | Arabic", MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="MBCPersia.ae" tvg-shift="3" tvg-name="MBC Persia" tvg-logo="https://i.imgur.com/4FXiyjn.png" group-title="PIKOTV | Arabic", MBC Persia
+https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="MBCFM.ae" tvg-shift="3" tvg-name="MBC FM" tvg-logo="https://i.imgur.com/lF8UxvR.png" group-title="PIKOTV | Arabic", MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="PanoramaFM.ae" tvg-shift="3" tvg-name="Panorama FM" tvg-logo="https://i.imgur.com/Cd32qqw.png" group-title="PIKOTV | Arabic", Panorama FM
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="AlHadath.sa" tvg-shift="3" tvg-name="AlHadath" tvg-logo="https://i.imgur.com/hoLt4JW.png" group-title="PIKOTV | Arabic", AlHadath
+https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="Alikhbariya.sa" tvg-shift="3" tvg-name="AlEkhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" group-title="PIKOTV | Arabic", AlEkhbariya
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="AlQuranAlKareemTV.sa" tvg-shift="3" tvg-name="Al Quran Al Kareem TV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="PIKOTV | Arabic", Al Quran Al Kareem TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="Wanasah.ae" tvg-shift="3" tvg-name="Wanasah" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="PIKOTV | Arabic", Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-logo="https://i.imgur.com/8tqK42D.png" group-title="PIKOTV | Arabic", Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="PIKOTV | Arabic", BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="Jordan1.il" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="", الأردنية 
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" ,رؤيـــا
